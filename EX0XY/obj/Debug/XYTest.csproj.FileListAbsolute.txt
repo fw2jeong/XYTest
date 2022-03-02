@@ -1,0 +1,3 @@
+C:\Users\LeeJeongHoon\Desktop\ScottLib2.0.1\TestFile-220302\XYTest\EX0XY\bin\Debug\EX0XY.exe.config
+C:\Users\LeeJeongHoon\Desktop\ScottLib2.0.1\TestFile-220302\XYTest\EX0XY\obj\Debug\EX0XY.exe
+C:\Users\LeeJeongHoon\Desktop\ScottLib2.0.1\TestFile-220302\XYTest\EX0XY\obj\Debug\EX0XY.pdb

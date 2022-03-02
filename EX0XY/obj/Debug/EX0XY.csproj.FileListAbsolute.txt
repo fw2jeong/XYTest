@@ -1,0 +1,33 @@
+c:\users\leejeonghoon\documents\visual studio 2013\Projects\EX0XY\EX0XY\bin\Debug\EX0XY.exe.config
+c:\users\leejeonghoon\documents\visual studio 2013\Projects\EX0XY\EX0XY\bin\Debug\EX0XY.exe
+c:\users\leejeonghoon\documents\visual studio 2013\Projects\EX0XY\EX0XY\bin\Debug\EX0XY.pdb
+c:\users\leejeonghoon\documents\visual studio 2013\Projects\EX0XY\EX0XY\bin\Debug\ScottPlot.dll
+c:\users\leejeonghoon\documents\visual studio 2013\Projects\EX0XY\EX0XY\bin\Debug\ScottPlot.WinForms.dll
+c:\users\leejeonghoon\documents\visual studio 2013\Projects\EX0XY\EX0XY\bin\Debug\System.Drawing.Common.dll
+c:\users\leejeonghoon\documents\visual studio 2013\Projects\EX0XY\EX0XY\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+c:\users\leejeonghoon\documents\visual studio 2013\Projects\EX0XY\EX0XY\bin\Debug\System.ValueTuple.dll
+c:\users\leejeonghoon\documents\visual studio 2013\Projects\EX0XY\EX0XY\bin\Debug\ScottPlot.xml
+c:\users\leejeonghoon\documents\visual studio 2013\Projects\EX0XY\EX0XY\bin\Debug\System.ValueTuple.xml
+c:\users\leejeonghoon\documents\visual studio 2013\Projects\EX0XY\EX0XY\obj\Debug\EX0XY.csprojResolveAssemblyReference.cache
+c:\users\leejeonghoon\documents\visual studio 2013\Projects\EX0XY\EX0XY\obj\Debug\EX0XY.Form1.resources
+c:\users\leejeonghoon\documents\visual studio 2013\Projects\EX0XY\EX0XY\obj\Debug\EX0XY.Properties.Resources.resources
+c:\users\leejeonghoon\documents\visual studio 2013\Projects\EX0XY\EX0XY\obj\Debug\EX0XY.csproj.GenerateResource.Cache
+c:\users\leejeonghoon\documents\visual studio 2013\Projects\EX0XY\EX0XY\obj\Debug\EX0XY.exe
+c:\users\leejeonghoon\documents\visual studio 2013\Projects\EX0XY\EX0XY\obj\Debug\EX0XY.pdb
+C:\Users\LeeJeongHoon\Desktop\ScottLib2.0.1\TestFile-220302\XYTest\EX0XY\bin\Debug\EX0XY.exe.config
+C:\Users\LeeJeongHoon\Desktop\ScottLib2.0.1\TestFile-220302\XYTest\EX0XY\obj\Debug\EX0XY.exe
+C:\Users\LeeJeongHoon\Desktop\ScottLib2.0.1\TestFile-220302\XYTest\EX0XY\obj\Debug\EX0XY.pdb
+C:\Users\LeeJeongHoon\Desktop\ScottLib2.0.1\TestFile-220302\XYTest\EX0XY\bin\Debug\EX0XY.exe
+C:\Users\LeeJeongHoon\Desktop\ScottLib2.0.1\TestFile-220302\XYTest\EX0XY\bin\Debug\EX0XY.pdb
+C:\Users\LeeJeongHoon\Desktop\ScottLib2.0.1\TestFile-220302\XYTest\EX0XY\bin\Debug\ScottPlot.dll
+C:\Users\LeeJeongHoon\Desktop\ScottLib2.0.1\TestFile-220302\XYTest\EX0XY\bin\Debug\ScottPlot.WinForms.dll
+C:\Users\LeeJeongHoon\Desktop\ScottLib2.0.1\TestFile-220302\XYTest\EX0XY\bin\Debug\System.Drawing.Common.dll
+C:\Users\LeeJeongHoon\Desktop\ScottLib2.0.1\TestFile-220302\XYTest\EX0XY\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\LeeJeongHoon\Desktop\ScottLib2.0.1\TestFile-220302\XYTest\EX0XY\bin\Debug\System.ValueTuple.dll
+C:\Users\LeeJeongHoon\Desktop\ScottLib2.0.1\TestFile-220302\XYTest\EX0XY\bin\Debug\ScottPlot.xml
+C:\Users\LeeJeongHoon\Desktop\ScottLib2.0.1\TestFile-220302\XYTest\EX0XY\bin\Debug\System.ValueTuple.xml
+C:\Users\LeeJeongHoon\Desktop\ScottLib2.0.1\TestFile-220302\XYTest\EX0XY\obj\Debug\EX0XY.csprojResolveAssemblyReference.cache
+C:\Users\LeeJeongHoon\Desktop\ScottLib2.0.1\TestFile-220302\XYTest\EX0XY\obj\Debug\ControlFlots.fScope.Private.ControlPanelForm.resources
+C:\Users\LeeJeongHoon\Desktop\ScottLib2.0.1\TestFile-220302\XYTest\EX0XY\obj\Debug\XYTest.XYTestForm.resources
+C:\Users\LeeJeongHoon\Desktop\ScottLib2.0.1\TestFile-220302\XYTest\EX0XY\obj\Debug\EX0XY.Properties.Resources.resources
+C:\Users\LeeJeongHoon\Desktop\ScottLib2.0.1\TestFile-220302\XYTest\EX0XY\obj\Debug\EX0XY.csproj.GenerateResource.Cache
